@@ -1,0 +1,10 @@
+.git
+node_modules
+.next
+.data
+.env*
+tests
+design
+plans
+docs
+*.md
