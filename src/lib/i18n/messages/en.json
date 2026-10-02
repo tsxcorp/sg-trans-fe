@@ -1,0 +1,237 @@
+{
+  "header": {
+    "address": "45 Dinh Tien Hoang St., Ben Nghe Ward, HCMC",
+    "hotlineLabel": "HOTLINE:",
+    "hotline": "(84) 28-38233 068",
+    "emailLabel": "Email",
+    "email": "info@saigontrans.com.vn",
+    "booking": "Booking",
+    "logoAlt": "Saigon Trans",
+    "nav": {
+      "home": "HOME",
+      "pages": "PAGES",
+      "services": "SERVICES",
+      "about": "ABOUT",
+      "news": "NEWS",
+      "contact": "CONTACT"
+    },
+    "navLabel": "Main",
+    "pages": {
+      "about": "About Us",
+      "services": "Our Service",
+      "news": "News",
+      "contact": "Contact",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Use"
+    },
+    "menuOpen": "Open menu",
+    "menuClose": "Close menu",
+    "language": "Language",
+    "languages": {
+      "en": "English",
+      "vi": "Tiếng Việt"
+    },
+    "socialLinks": [
+      {
+        "label": "Twitter",
+        "url": "https://twitter.com/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://facebook.com/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://instagram.com/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/"
+      }
+    ]
+  },
+  "hero": {
+    "title": "WELCOME TO SAIGON TRANS",
+    "subtitle": "SAIGONTRANS – A logistics bridge for a prosperous Vietnam",
+    "explore": "Explore The Services",
+    "contact": "Contact Us"
+  },
+  "quote": {
+    "title": "REQUEST A QUOTE",
+    "subtitle": "Complete the form to speak with a Contract Logistics Specialist",
+    "section": "Contact information",
+    "firstName": "First Name",
+    "lastName": "Last name",
+    "company": "Compnay name",
+    "email": "Email Address",
+    "phone": "Phone number",
+    "country": "Country",
+    "jobTitle": "Job Title",
+    "hint": "Please enter your request here, we will be send you an offer",
+    "submit": "Request A Quote",
+    "sending": "Sending…",
+    "success": "Thank you! Your request has been received.",
+    "imageAlt": "Saigon Trans delivery truck",
+    "errors": {
+      "first_name": "Please enter your first name.",
+      "last_name": "Please enter your last name.",
+      "email": "Please enter a valid email address.",
+      "phone": "Please enter a valid phone number.",
+      "company": "Company name is too long.",
+      "country": "Country is too long.",
+      "job_title": "Job title is too long.",
+      "message": "Message is too long.",
+      "locale": "Unsupported language.",
+      "invalid": "Please check this field.",
+      "rateLimit": "Too many requests from your network. Please try again in a few minutes.",
+      "server": "Sorry, we could not save your request. Please try again in a moment."
+    }
+  },
+  "stats": {
+    "title": "WE GOOD WITH NUMBER"
+  },
+  "services": {
+    "eyebrow": "Services",
+    "title": "Our Service For You",
+    "viewAll": "View All Services",
+    "readMore": "Read More"
+  },
+  "partners": {
+    "eyebrow": "Our Key",
+    "title": "Partners & Clients"
+  },
+  "news": {
+    "eyebrow": "Latest Blog",
+    "title": "Latest News & Articles",
+    "subtitle": "Dramatically Enhance Interactive Metrics For Reliable Services. Proactively Unleash Fully Researched E-commerce.",
+    "comments": "Comments",
+    "readMore": "Read More"
+  },
+  "cta": {
+    "title": "READY TO OPTIMIZE YOUR SUPPLY CHAIN?",
+    "text": "Get a tailored quote for your international shipping needs today from our expert logistics consultants.",
+    "primary": "REQUEST A FREE QUOTE",
+    "secondary": "CONTACT SALES"
+  },
+  "footer": {
+    "about": "Since 2000, we have provided import and export customs clearance, transport, cross-border haulage and warehousing solutions in Vietnam. Our own fleet, in-house drivers and professional team deliver on time, with trust...",
+    "columns": [
+      {
+        "id": "solutions",
+        "title": "Solutions",
+        "links": [
+          {
+            "label": "Shipping Instruction",
+            "path": "services"
+          },
+          {
+            "label": "Process Import and Export",
+            "path": "services"
+          },
+          {
+            "label": "Transport solution",
+            "path": "services"
+          }
+        ]
+      },
+      {
+        "id": "company",
+        "title": "Company",
+        "links": [
+          {
+            "label": "About",
+            "path": "about-us"
+          },
+          {
+            "label": "Career",
+            "path": "about-us"
+          },
+          {
+            "label": "Contact",
+            "path": "contact"
+          }
+        ]
+      },
+      {
+        "id": "resource",
+        "title": "Resource",
+        "links": [
+          {
+            "label": "Customers",
+            "path": "about-us"
+          },
+          {
+            "label": "Strategic Finance",
+            "path": "services"
+          },
+          {
+            "label": "Ebooks & Guides",
+            "path": "news"
+          }
+        ]
+      },
+      {
+        "id": "features",
+        "title": "Features",
+        "links": [
+          {
+            "label": "Freelancer",
+            "path": "services"
+          },
+          {
+            "label": "Data Analytics",
+            "path": "services"
+          },
+          {
+            "label": "Small Business",
+            "path": "services"
+          }
+        ]
+      }
+    ],
+    "newsletterTitle": "Subscribe Newsletter",
+    "newsletterText": "We understand that every challenge is an opportunity",
+    "emailPlaceholder": "Email Address",
+    "signUp": "Sign Up",
+    "consent": "By subscribing, you’re accept",
+    "privacy": "Privacy Policy",
+    "copyright": "©Copyright 2026",
+    "brand": "STS",
+    "rights": "All Rights Reserved",
+    "logoAlt": "STS",
+    "socialLinks": [
+      {
+        "label": "Facebook",
+        "url": "https://facebook.com/",
+        "icon": "facebook"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://linkedin.com/",
+        "icon": "linkedin"
+      }
+    ],
+    "newsletterSuccess": "Thank you for subscribing.",
+    "newsletterErrors": {
+      "email": "Please enter a valid email address.",
+      "rateLimit": "Too many requests from your network. Please try again in a few minutes.",
+      "server": "Sorry, we could not save your subscription. Please try again in a moment."
+    },
+    "privacyPath": "privacy-policy",
+    "homeLabel": "Saigon Trans home"
+  },
+  "meta": {
+    "title": "Saigon Trans — A logistics bridge for a prosperous Vietnam",
+    "description": "Saigon Trans: freight forwarding, warehousing, customs consultancy and e-commerce logistics in Vietnam."
+  },
+  "skip": "Skip to main content",
+  "carousel": {
+    "slide": "Slide {n} of {total}"
+  },
+  "notFound": {
+    "code": "404",
+    "title": "Page not found",
+    "text": "The page you are looking for does not exist or has been moved.",
+    "home": "Back to home"
+  }
+}

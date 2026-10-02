@@ -1,0 +1,58 @@
+[
+  {
+    "id": "2c92b9e8-81ef-5ec0-92b6-df3b5b6a3939",
+    "status": "published",
+    "sort": 1,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "panel": 1,
+    "translations": [
+      {
+        "languages_code": "en",
+        "label": "Airport Terminals"
+      }
+    ]
+  },
+  {
+    "id": "55a95e80-c114-5e36-b2c3-bfdaed557285",
+    "status": "published",
+    "sort": 2,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "panel": 1,
+    "translations": [
+      {
+        "languages_code": "en",
+        "label": "Sea & Land"
+      }
+    ]
+  },
+  {
+    "id": "0e07e239-cd83-5ae1-892b-7639e8064fe0",
+    "status": "published",
+    "sort": 3,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "panel": 2,
+    "translations": [
+      {
+        "languages_code": "en",
+        "label": "Warehousing"
+      }
+    ]
+  },
+  {
+    "id": "06c63acb-f6c6-5f47-9aec-5810be761002",
+    "status": "published",
+    "sort": 4,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "panel": 2,
+    "translations": [
+      {
+        "languages_code": "en",
+        "label": "Economic Zones"
+      }
+    ]
+  }
+]

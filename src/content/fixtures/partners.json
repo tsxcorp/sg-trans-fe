@@ -1,0 +1,72 @@
+[
+  {
+    "id": "eb78d088-5bcb-55f1-b8f1-766b09d42b0a",
+    "status": "published",
+    "sort": 1,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "name": "Company 1",
+    "logo": "eb78d088-5bcb-55f1-b8f1-766b09d42b0a",
+    "url": null
+  },
+  {
+    "id": "2d3a9e5b-3b59-5e90-858d-d01e3eaced10",
+    "status": "published",
+    "sort": 2,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "name": "Company 2",
+    "logo": "2d3a9e5b-3b59-5e90-858d-d01e3eaced10",
+    "url": null
+  },
+  {
+    "id": "6aab2497-43d0-550c-b844-627fe06f9fbd",
+    "status": "published",
+    "sort": 3,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "name": "Company 3",
+    "logo": "6aab2497-43d0-550c-b844-627fe06f9fbd",
+    "url": null
+  },
+  {
+    "id": "fde58872-5b9e-55e6-badb-4f1185010149",
+    "status": "published",
+    "sort": 4,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "name": "Company 4",
+    "logo": "fde58872-5b9e-55e6-badb-4f1185010149",
+    "url": null
+  },
+  {
+    "id": "01145335-5fe4-50f2-a91f-d3e38a06a399",
+    "status": "published",
+    "sort": 5,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "name": "Company 5",
+    "logo": "01145335-5fe4-50f2-a91f-d3e38a06a399",
+    "url": null
+  },
+  {
+    "id": "aed9b082-edf4-57c3-b22c-90090f6e797a",
+    "status": "published",
+    "sort": 6,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "name": "Company 6",
+    "logo": "aed9b082-edf4-57c3-b22c-90090f6e797a",
+    "url": null
+  },
+  {
+    "id": "3d33e82b-fca1-55e0-879b-376de9e9770a",
+    "status": "published",
+    "sort": 7,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "name": "Company 7",
+    "logo": "3d33e82b-fca1-55e0-879b-376de9e9770a",
+    "url": null
+  }
+]

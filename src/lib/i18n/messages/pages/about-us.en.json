@@ -1,0 +1,10 @@
+{
+  "heroExplore": "Explore The Services",
+  "heroContact": "Contact Us",
+  "introServices": "View Services",
+  "introReadMore": "Read More",
+  "introReadMoreTarget": "#core-values",
+  "capabilitiesLabel": "Our fleet and people",
+  "visionLabel": "Vision and mission",
+  "capabilitySlide": "Capability {n} of {total}"
+}

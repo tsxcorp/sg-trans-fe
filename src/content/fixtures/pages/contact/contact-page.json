@@ -1,0 +1,48 @@
+[
+  {
+    "id": "08043608-0f5b-5c7d-8fa8-340409553876",
+    "status": "published",
+    "sort": 1,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "hero_image": "0b6ae083-787b-5831-a52b-bbf9dc7e97ec",
+    "quote_bg": "1eef6fc5-71aa-5023-a70c-af86a3fe57f9",
+    "quote_photo": "825292da-2a23-586a-9046-fda66b8b91a0",
+    "map_image": "8c7ebcd1-aa7e-5306-aba5-ed2595ae396f",
+    "map_embed_url": null,
+    "map_open_url": "https://www.google.com/maps/search/?api=1&query=45+Dinh+Tien+Hoang+Street+Saigon+Ward+Ho+Chi+Minh+City",
+    "forklift_image": "8b1e3d30-9cf6-5cfc-a2be-f3522ef4acfc",
+    "world_image": "a8622e91-1056-5ef1-8abf-2c84ad3c1656",
+    "translations": [
+      {
+        "languages_code": "en",
+        "seo_title": "Contact Us | Saigon Trans",
+        "seo_description": "Contact Saigon Trans: office addresses in Ho Chi Minh City, business and customs hours, key logistics contacts and a project quote request form.",
+        "hero_title": "CONTACT US",
+        "hero_subtitle": "We are here to support your logistics needs",
+        "map_chip": "ACTIVE HUB: HCMC",
+        "map_alt": "Map showing the Saigon Trans main office, Ho Chi Minh City",
+        "map_link_label": "Open the Saigon Trans main office in maps (new tab)",
+        "leadership_eyebrow": "Our Leadership",
+        "leadership_title": "Key Logistics Contacts",
+        "operations_title": "Operation Key Persons",
+        "quote_title": "Request a Project Quote",
+        "quote_photo_title": "Kinetic Efficiency",
+        "quote_photo_text": "Leveraging Vietnam's strategic position with precision logistics and real-time manifest tracking.",
+        "quote_photo_alt": "White Saigon Trans truck with a blue container on the road",
+        "notice_label": "NOTICE",
+        "notice_title": "Custom working hours:",
+        "notice_blocks": [
+          {
+            "lead": "Normally effective time for clearance formalities:",
+            "text": "Monday – Friday: 07:30 hour – 17:00hour"
+          },
+          {
+            "lead": "Customs offers on-duty",
+            "text": "during week-end and holidays available up to pre-arrangement and depending on a"
+          }
+        ]
+      }
+    ]
+  }
+]

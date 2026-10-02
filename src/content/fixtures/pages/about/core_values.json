@@ -1,0 +1,124 @@
+[
+  {
+    "id": "2abbf2fb-3ef1-56b4-ad5f-1ff0bf978ea2",
+    "status": "published",
+    "sort": 1,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "icon": "box-hand",
+    "layout": "standard",
+    "variant": "default",
+    "background_image": null,
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "INTERGRATED LOGISTICS",
+        "body": [
+          "We provide solution for transport of our Customers' Supply Chains, provide a skill team for custom clearances. Through our expertise, service diversification, and extensive asset owner ship, we possess all the means to provide End-to-End logistic solutions."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "66c7e98a-bf9f-5a42-a3d0-9e43f3309628",
+    "status": "published",
+    "sort": 2,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "icon": "box-hand",
+    "layout": "standard",
+    "variant": "default",
+    "background_image": null,
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "CUSTOMER SATISFACTION",
+        "body": [
+          "We listen to our customers and understand their needs. We design tailor-made solutions that suit their goals and challenges. We deliver on our promises and ensure customer satisfaction."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "9f387380-de5e-51e2-9c42-ad69c83cf9ac",
+    "status": "published",
+    "sort": 3,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "icon": "box-hand",
+    "layout": "wide_columns",
+    "variant": "default",
+    "background_image": null,
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "SOT",
+        "body": [
+          "Safety first, we consider safe delivery and safe driving our top priority\nOn time delivery",
+          "For 26 years, on-time delivery has been the cornerstone of our logistics service. This unwavering commitment to punctuality reflects our dedication to reliability, operational excellence, and customer satisfaction.",
+          "Trust means safeguarding every shipment, honoring every deadline, navigating customs with precision, resolving challenges with expertise, and delivering excellence at every step. When trust leads the way, everyone wins."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "21e22e53-b4fa-5041-b9ca-82ffc5036449",
+    "status": "published",
+    "sort": 4,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "icon": "box-hand",
+    "layout": "wide",
+    "variant": "default",
+    "background_image": null,
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "OPERATION EXCELLENCE",
+        "body": [
+          "Planning transportation, preparing complete documentation, inspecting goods before delivery, managing and distributing efficiently, monitoring the transportation process, closely collaborating with logistics partners, and storing records and delivery reports. We utilize advanced technology and best practices to enhance operational efficiency and performance."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3adc015f-96f3-5fb5-95e4-4ed54d50f4d9",
+    "status": "published",
+    "sort": 5,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "icon": "box-hand",
+    "layout": "standard",
+    "variant": "default",
+    "background_image": null,
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "QUALITY",
+        "body": [
+          "We strive for excellence in our services and ensure quality control systems are implemented. Our certified quality management systems GSP-CCTV 24/7 compliant, Safety and delivery on time is value of services of Saigontrans"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3558a72c-ba9c-5a25-8352-7b8ba61f3cc6",
+    "status": "published",
+    "sort": 6,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "icon": "box-hand",
+    "layout": "standard",
+    "variant": "highlight",
+    "background_image": "d7a1f553-e678-597f-8fc5-3031e62c6932",
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "TEAMWORK",
+        "body": [
+          "We work together as one team. We respect each other and value diversity. We share knowledge and ideas. We support each other and celebrate our achievements."
+        ]
+      }
+    ]
+  }
+]

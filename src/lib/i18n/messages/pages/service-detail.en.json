@@ -1,0 +1,18 @@
+{
+  "defaults": {
+    "introEyebrow": "Our Services",
+    "highlightsTitle": "KEY HIGHLIGHTS",
+    "featuresEyebrow": "Our Capabilities",
+    "featuresTitle": "Key Features"
+  },
+  "related": { "title": "Related Services" },
+  "help": {
+    "title": "Need Help?",
+    "text": "Our logistics experts are ready to assist with your custom requirements.",
+    "phone": "+1 (800) SAIGON-1"
+  },
+  "highlightsImageAlt": "Illustration of a supply chain: ship, crane, warehouse, trucks and a plane over a world map",
+  "slide": "Slide {n}",
+  "process": { "listLabel": "Process steps" },
+  "expertise": { "cardsLabel": "Consultancy topics", "statsLabel": "Key figures" }
+}

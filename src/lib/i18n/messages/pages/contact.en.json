@@ -1,0 +1,45 @@
+{
+  "hero": {
+    "explore": "Explore The Services",
+    "contact": "Contact Us"
+  },
+  "offices": {
+    "licenseTax": "LICENSE/TAX",
+    "vat": "VAT:",
+    "directConnect": "DIRECT CONNECT",
+    "mapLinkHint": "Opens in a new tab"
+  },
+  "hours": {
+    "heading": "Opening hours"
+  },
+  "leadership": {
+    "ext": "Ext:",
+    "emailAria": "Email",
+    "extAria": "Extension"
+  },
+  "operations": {
+    "personsSeparator": " / "
+  },
+  "form": {
+    "firstName": "First name",
+    "firstNamePlaceholder": "Enter first name",
+    "lastName": "Last name",
+    "lastNamePlaceholder": "Enter last name",
+    "email": "Corporate email",
+    "emailPlaceholder": "name@company.com",
+    "phone": "Phone number",
+    "phonePlaceholder": "+1 (555) 000-0000",
+    "serviceType": "Service type",
+    "servicePlaceholder": "Select Logistics Service",
+    "volume": "Estimated volume",
+    "volumePlaceholder": "e.g. 50 containers/month",
+    "message": "Project brief",
+    "messagePlaceholder": "Describe your logistics challenges...",
+    "submit": "INITIALIZE INQUIRY",
+    "sending": "INITIALIZE INQUIRY",
+    "successTitle": "Thank you!",
+    "success": "Your project request has been received. Our team will review it and contact you.",
+    "another": "Send another request",
+    "intro": "Tell us about your project and our team will review it and get in touch."
+  }
+}

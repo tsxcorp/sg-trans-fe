@@ -1,0 +1,38 @@
+[
+  {
+    "id": "60816173-5252-5866-8528-b23679ab55b5",
+    "status": "published",
+    "sort": 1,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "phone": null,
+    "email": null,
+    "icon": "pin",
+    "translations": [
+      {
+        "languages_code": "en",
+        "name": "Main Office",
+        "address": "45 Dinh Tien Hoang Street, Saigon Ward, Ho Chi Minh City",
+        "role": null
+      }
+    ]
+  },
+  {
+    "id": "4a40b1a7-376b-511e-8250-b38f68837c1e",
+    "status": "published",
+    "sort": 2,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "phone": null,
+    "email": null,
+    "icon": "building",
+    "translations": [
+      {
+        "languages_code": "en",
+        "name": "Operation Office",
+        "address": "19 To Huu, Lakeview 1, An Khanh Ward, HCMC",
+        "role": null
+      }
+    ]
+  }
+]

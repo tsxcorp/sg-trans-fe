@@ -1,0 +1,39 @@
+{
+  "id": "3396bd76-8ef6-5460-82db-5de4b7f1ff05",
+  "status": "published",
+  "sort": 1,
+  "date_created": "2026-10-02T08:00:00.000Z",
+  "date_updated": null,
+  "hero_image": "e4e8f6d9-6e90-5e32-9de1-4c3837fcf64e",
+  "intro_image": "c56fa24c-4347-56a7-a11f-ce4e2f4b5b6d",
+  "vision_mission_image": "9d57d62c-168e-5587-b661-5fb3a95b29f2",
+  "years_value": "26+",
+  "rating": "5.0",
+  "translations": [
+    {
+      "languages_code": "en",
+      "meta_title": "About Saigontrans | End-to-End Logistics in Vietnam",
+      "meta_description": "Saigontrans provides end-to-end logistics solutions with 26 years of experience. Our vision, mission, fleet and core values.",
+      "hero_title": "ABOUT SAIGONTRANS",
+      "hero_subtitle": "SAIGON TRANS — A logistics bridge for a prosperous Vietnam",
+      "intro_eyebrow": "About Saigontrans",
+      "intro_title": "End-to-End Logistics Solutions",
+      "intro_paragraphs": [
+        "With 26 years of experience, Saigontrans provides comprehensive End-to-End logistics solutions. Our vision is to become the admired National Champion in Vietnam's logistics industry.",
+        "We are committed to building an integrated, future-ready ecosystem founded on safety, trust, and on-time delivery."
+      ],
+      "years_label": "Years Of Experience",
+      "vision_title": "Our Vision",
+      "vision_text": "To position Saigontrans Logistics as the admired National Champion in the logistics industry of Vietnam",
+      "mission_title": "Our Mission",
+      "mission_text": "To create the most integrated and future-ready ecosystem for contract logistics, built on a foundation of trust and exceptional goodwill to those we serve.",
+      "values_eyebrow": "Services",
+      "values_title": "Our Core Values",
+      "partners_eyebrow": "Our Key",
+      "partners_title": "Partners & Clients",
+      "image_alts": {
+        "intro": "Red Saigontrans truck in front of stacked red shipping containers, with an aircraft in the sky"
+      }
+    }
+  ]
+}

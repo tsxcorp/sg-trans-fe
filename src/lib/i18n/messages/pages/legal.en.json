@@ -1,0 +1,26 @@
+{
+  "draftNotice": "Draft text describing how this website works. It must be reviewed by the company's legal counsel before publication.",
+  "privacy": {
+    "title": "Privacy Policy",
+    "meta": "How Saigon Trans handles the personal data you send through this website.",
+    "sections": [
+      { "heading": "Who we are", "paragraphs": ["This website is operated by Saigon Trans. You can reach us through the contact details in the page header and on the Contact page."] },
+      { "heading": "What we collect", "paragraphs": ["Request a quote form: first name, last name, company name, email address, phone number, country, job title, and, on the Contact and Services forms, the service type, estimated volume and project brief you type.", "Newsletter sign-up: your email address."] },
+      { "heading": "Why we use it", "paragraphs": ["We use the details from a quote request to answer that request. We use the email address from the newsletter sign-up to send the newsletter you asked for. We do not sell personal data."] },
+      { "heading": "Cookies and tracking", "paragraphs": ["This website does not use analytics, advertising or tracking cookies, and it does not load third-party scripts. The map on the Contact page is a static image; opening the map takes you to the maps provider in a new tab."] },
+      { "heading": "Storage and retention", "paragraphs": ["Requests and sign-ups are stored on our servers. Where the servers are located and how long records are kept will be confirmed by the company before launch."] },
+      { "heading": "Your rights", "paragraphs": ["You can ask us to see, correct or delete the personal data we hold about you, and to stop sending the newsletter, by contacting us through the details on the Contact page."] }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Use",
+    "meta": "Terms for using the Saigon Trans website.",
+    "sections": [
+      { "heading": "About this website", "paragraphs": ["This website gives information about the logistics services of Saigon Trans. Information is provided in good faith and may change without notice."] },
+      { "heading": "Quotes and requests", "paragraphs": ["Sending a request through this website does not create a contract. A quotation becomes binding only when we confirm it in writing."] },
+      { "heading": "Content", "paragraphs": ["Texts, images and logos on this website belong to Saigon Trans or its partners and may not be copied or reused without permission."] },
+      { "heading": "Links to other sites", "paragraphs": ["Links to other websites are provided for convenience. We are not responsible for their content."] },
+      { "heading": "Changes", "paragraphs": ["We may update these terms. The version published on this page applies."] }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1fe807d6-43b9-51ff-96b0-d1ef302d91f4",
+    "status": "published",
+    "sort": 1,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "forklift_image": "81f130ba-24e5-5865-baaf-9817b759e83e",
+    "intro_map_image": "ca73c165-0be1-5e25-b94c-8631f548dd52",
+    "detail_map_image": "1520c602-5bc3-5080-b6ba-ad32fe3e65e2",
+    "hero_image": "4ff689bb-4ccc-5cde-aa87-179584875fec",
+    "intro_images": [
+      "b844bcc7-9d90-5d6b-a080-5f209660799a",
+      "ebc77c26-c629-5460-9ed9-d97c0a00d206"
+    ],
+    "quote_image": "4799adb1-ecd6-5044-a08b-c5183a55be19",
+    "quote_background": "38a859f2-73a5-5fcb-85be-58e9fd0a754b",
+    "intro_stats": [
+      {
+        "value": "26+",
+        "icon": "brain-cog",
+        "translations": [
+          {
+            "languages_code": "en",
+            "label": "YEARS EXPERIENCE"
+          }
+        ]
+      },
+      {
+        "value": "06",
+        "icon": "brain-cog",
+        "translations": [
+          {
+            "languages_code": "en",
+            "label": "SERVICE LOCATIONS"
+          }
+        ]
+      }
+    ],
+    "translations": [
+      {
+        "languages_code": "en",
+        "seo_title": "Our Services | Saigon Trans",
+        "seo_description": "End-to-end logistics from Saigon Trans: customs clearance, door to door, freight forwarding, warehousing and e-commerce fulfilment.",
+        "hero_title": "OUR SERVICES",
+        "intro_eyebrow": "Our Services",
+        "intro_title": "End-to-End\nLogistics Solutions",
+        "intro_body": "Saigontrans has authored and provided highly technical export / import training across these tightly controlled industries. If you have questions, need a partner to assist, or someone to handle the transaction start to finish - we have done it, we're here to do it and we're good at it. This is not work for an inexperienced Broker or Forwarder - you need clarity, communication and commitment to your business.",
+        "badge_value": "26",
+        "badge_label": "YEARS EXPERIENCE",
+        "quote_title": "Request a Project Quote",
+        "quote_intro": "Our architects will analyze your requirements and get back to you soon.",
+        "quote_caption_title": "Kinetic Efficiency",
+        "quote_caption_body": "Leveraging Vietnam's strategic position with precision logistics and real-time manifest tracking."
+      }
+    ]
+  }
+]

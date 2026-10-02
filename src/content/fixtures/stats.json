@@ -1,0 +1,82 @@
+[
+  {
+    "id": "9429d1e4-01a0-5331-8f5f-0edf42be9869",
+    "status": "published",
+    "sort": 1,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "value": "38",
+    "icon": "warehouse",
+    "as_of": "2026-09-01",
+    "translations": [
+      {
+        "languages_code": "en",
+        "label": "Trucks from\n1.5 to 10 ton"
+      }
+    ]
+  },
+  {
+    "id": "cc84d25a-f150-5a92-a23e-bbe139506e92",
+    "status": "published",
+    "sort": 2,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "value": "20",
+    "icon": "truck",
+    "as_of": "2025-12-31",
+    "translations": [
+      {
+        "languages_code": "en",
+        "label": "Container 40’HC"
+      }
+    ]
+  },
+  {
+    "id": "4feec66a-591a-52c4-9084-250554acd4c0",
+    "status": "published",
+    "sort": 3,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "value": "45",
+    "icon": "globe",
+    "as_of": "2025-12-31",
+    "translations": [
+      {
+        "languages_code": "en",
+        "label": "Experienced drivers\nB2, C and FC licence"
+      }
+    ]
+  },
+  {
+    "id": "2816d324-a471-58d4-8b31-7aa50a89e495",
+    "status": "published",
+    "sort": 4,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "value": "05",
+    "icon": "box-hand",
+    "as_of": "2025-12-31",
+    "translations": [
+      {
+        "languages_code": "en",
+        "label": "Prime mover\nfor port haul"
+      }
+    ]
+  },
+  {
+    "id": "8628d5c9-7fe4-5085-86a6-d04aae703f10",
+    "status": "published",
+    "sort": 5,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "value": "03",
+    "icon": "warehouse",
+    "as_of": "2025-12-31",
+    "translations": [
+      {
+        "languages_code": "en",
+        "label": "Skillful mechanical\nengineering"
+      }
+    ]
+  }
+]

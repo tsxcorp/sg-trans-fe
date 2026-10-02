@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "News & Insights | Saigon Trans",
+    "description": "Logistics industry news and insights from Saigon Trans: market outlooks, network updates, global supply analysis and sustainability."
+  },
+  "breadcrumb": {
+    "label": "Breadcrumb",
+    "home": "HOME",
+    "news": "NEWS",
+    "detail": "NEWS DETAIL"
+  },
+  "hero": {
+    "title": "NEWS & INSIGHTS"
+  },
+  "featured": {
+    "metaLabel": "INSIGHTS",
+    "readFull": "READ FULL ARTICLE",
+    "listLabel": "Articles"
+  },
+  "row": {
+    "continue": "CONTINUE"
+  },
+  "pagination": {
+    "label": "Pagination",
+    "previous": "PREVIOUS",
+    "next": "NEXT",
+    "page": "Page {n}",
+    "gap": "..."
+  },
+  "sidebar": {
+    "searchTitle": "SEARCH INSIGHTS",
+    "searchLabel": "Search articles",
+    "searchPlaceholder": "Search articles...",
+    "searchSubmit": "Search",
+    "categoriesTitle": "CATEGORIES",
+    "tagsTitle": "TRENDING TAGS"
+  },
+  "resource": {
+    "unavailable": "This file is not available yet.",
+    "download": "Download PDF"
+  },
+  "empty": {
+    "none": "No articles found.",
+    "noneFor": "No articles found for \"{q}\".",
+    "clear": "Clear filters"
+  },
+  "status": {
+    "one": "1 article",
+    "many": "{n} articles"
+  },
+  "insights": {
+    "eyebrow": "Latest Briefings",
+    "title": "Industry Insights",
+    "carouselLabel": "Industry Insights articles",
+    "authorLabel": "Author",
+    "slide": "Go to slide {n}"
+  }
+}

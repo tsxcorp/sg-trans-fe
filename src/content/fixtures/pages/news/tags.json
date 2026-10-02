@@ -1,0 +1,137 @@
+[
+  {
+    "id": "efdeb151-956e-5c65-bfd0-d27d93d2796b",
+    "status": "published",
+    "sort": 1,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slug": "freight",
+    "trending": true,
+    "translations": [
+      {
+        "languages_code": "en",
+        "name": "Freight"
+      }
+    ]
+  },
+  {
+    "id": "c90c6359-3ba0-5e93-b90a-6d8079118a57",
+    "status": "published",
+    "sort": 2,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slug": "blockchain",
+    "trending": true,
+    "translations": [
+      {
+        "languages_code": "en",
+        "name": "Blockchain"
+      }
+    ]
+  },
+  {
+    "id": "15a559fa-8073-5180-b789-2d4167465aca",
+    "status": "published",
+    "sort": 3,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slug": "asia-pacific",
+    "trending": true,
+    "translations": [
+      {
+        "languages_code": "en",
+        "name": "Asia-Pacific"
+      }
+    ]
+  },
+  {
+    "id": "ede2586a-c8a4-5ff7-8303-5ced6b1616c0",
+    "status": "published",
+    "sort": 4,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slug": "green-logistics",
+    "trending": true,
+    "translations": [
+      {
+        "languages_code": "en",
+        "name": "Green-Logistics"
+      }
+    ]
+  },
+  {
+    "id": "493f5207-1037-5d2f-beac-2ea0dc1a44da",
+    "status": "published",
+    "sort": 5,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slug": "warehousing",
+    "trending": true,
+    "translations": [
+      {
+        "languages_code": "en",
+        "name": "Warehousing"
+      }
+    ]
+  },
+  {
+    "id": "f832d2a1-c824-52f0-b0f5-5be2a5efbf90",
+    "status": "published",
+    "sort": 6,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slug": "future-tech",
+    "trending": false,
+    "translations": [
+      {
+        "languages_code": "en",
+        "name": "Future Tech"
+      }
+    ]
+  },
+  {
+    "id": "00d148e6-e7cf-5baf-90bb-3456005d8fd2",
+    "status": "published",
+    "sort": 7,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slug": "supply-chain",
+    "trending": false,
+    "translations": [
+      {
+        "languages_code": "en",
+        "name": "Supply Chain"
+      }
+    ]
+  },
+  {
+    "id": "af34296f-5968-5bc3-b22b-8fede312cb04",
+    "status": "published",
+    "sort": 8,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slug": "green-logistics-article",
+    "trending": false,
+    "translations": [
+      {
+        "languages_code": "en",
+        "name": "Green Logistics"
+      }
+    ]
+  },
+  {
+    "id": "d5feeafc-ccf6-5009-93eb-9129ad65d0a1",
+    "status": "published",
+    "sort": 9,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slug": "sustainability",
+    "trending": false,
+    "translations": [
+      {
+        "languages_code": "en",
+        "name": "Sustainability"
+      }
+    ]
+  }
+]

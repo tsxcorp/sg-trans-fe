@@ -1,0 +1,77 @@
+[
+  {
+    "id": "9d552bd8-4b35-5890-9b67-a83ce3b24eb2",
+    "status": "published",
+    "sort": 1,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slug": "global-supply",
+    "in_sidebar": true,
+    "translations": [
+      {
+        "languages_code": "en",
+        "name": "Global Supply"
+      }
+    ]
+  },
+  {
+    "id": "9cbc7b4f-e282-58f8-b724-405ec3d7b793",
+    "status": "published",
+    "sort": 2,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slug": "innovation",
+    "in_sidebar": true,
+    "translations": [
+      {
+        "languages_code": "en",
+        "name": "Innovation"
+      }
+    ]
+  },
+  {
+    "id": "89338dda-7688-59cc-81ae-136274fef9b3",
+    "status": "published",
+    "sort": 3,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slug": "network-updates",
+    "in_sidebar": true,
+    "translations": [
+      {
+        "languages_code": "en",
+        "name": "Network Updates"
+      }
+    ]
+  },
+  {
+    "id": "2940fd0d-91fc-526d-aca9-e35b75898573",
+    "status": "published",
+    "sort": 4,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slug": "sustainability",
+    "in_sidebar": true,
+    "translations": [
+      {
+        "languages_code": "en",
+        "name": "Sustainability"
+      }
+    ]
+  },
+  {
+    "id": "f5bbf494-6d5f-5259-b3ac-b25439c08f83",
+    "status": "published",
+    "sort": 5,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slug": "network-expansion",
+    "in_sidebar": false,
+    "translations": [
+      {
+        "languages_code": "en",
+        "name": "Network Expansion"
+      }
+    ]
+  }
+]

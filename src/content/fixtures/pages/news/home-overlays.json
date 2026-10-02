@@ -1,0 +1,15 @@
+{
+  "_comment": "News-page fields for the 3 Home articles (news.json is not edited). list_image = the same photo cut at the Industry Insights card size (382x277) from the News export; `cover` (Home) is unchanged. related_image = the crop drawn on the article page.",
+  "vietnam-logistics-digital-shift": {
+    "list_image": "7be5ba29-0462-5795-9070-cdfa53b78f7c",
+    "related_image": "d9b9ae4e-4079-50ac-9ec8-143cf81aa95b"
+  },
+  "logistics-turning-point": {
+    "list_image": "176f1c9f-29e6-5f13-9a92-406385e86e9f",
+    "related_image": "2c95f6bf-ffff-5412-98bd-7401eceada4f"
+  },
+  "talent-shortage": {
+    "list_image": "4d0d7851-1906-551b-838f-84547cc482cd",
+    "related_image": "9c8ce192-f227-51e7-b637-01b5139b7c73"
+  }
+}

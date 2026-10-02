@@ -1,0 +1,74 @@
+[
+  {
+    "id": "84c7306e-5fd3-54a3-ae94-f0ac1ca54a97",
+    "status": "published",
+    "sort": 1,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slug": "logistic-service",
+    "icon": "box-hand",
+    "image": "58b2db04-3bcf-5169-8813-bad3329c2e8c",
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "Logistic Service",
+        "summary": "Energistically reconceptualize ubiquitous solution wherea\nmarket-driven expertise.\nSynergistical empower parallel processes with highly efficient infomediaries.",
+        "body": null
+      }
+    ]
+  },
+  {
+    "id": "78dde73f-6061-545a-9097-3696d0e65968",
+    "status": "published",
+    "sort": 2,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slug": "freight-forwarding",
+    "icon": "box-hand",
+    "image": "246a4d87-3ed1-5feb-856d-dc7ff22cc42d",
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "Freight Fowarding",
+        "summary": "Energistically reconceptualize ubiquitous solution wherea\nmarket-driven expertise.\nSynergistical empower parallel processes with highly efficient infomediaries.",
+        "body": null
+      }
+    ]
+  },
+  {
+    "id": "1ed28703-8c50-5a92-a000-4962a8836988",
+    "status": "published",
+    "sort": 3,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slug": "warehousing",
+    "icon": "ship",
+    "image": "f62391b3-6a8b-5a53-9598-249e472638b4",
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "Warehousing",
+        "summary": "Energistically reconceptualize ubiquitous solution wherea\nmarket-driven expertise.\nSynergistical empower parallel processes with highly efficient infomediaries.",
+        "body": null
+      }
+    ]
+  },
+  {
+    "id": "e162ebe5-1228-5321-9d51-377979479123",
+    "status": "published",
+    "sort": 4,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slug": "e-commerce",
+    "icon": "plane",
+    "image": "71ace632-a765-54ef-9320-ffb26172f3f2",
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "E-Commerce",
+        "summary": "Energistically reconceptualize ubiquitous solution wherea\nmarket-driven expertise.\nSynergistical empower parallel processes with highly efficient infomediaries.",
+        "body": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "siteName": "Saigon Trans"
+  },
+  "breadcrumb": {
+    "label": "Breadcrumb",
+    "home": "HOME",
+    "news": "NEWS",
+    "detail": "NEWS DETAIL"
+  },
+  "article": {
+    "tagsLabel": "Article tags",
+    "bodyLabel": "Article",
+    "statsLabel": "Key figures"
+  }
+}

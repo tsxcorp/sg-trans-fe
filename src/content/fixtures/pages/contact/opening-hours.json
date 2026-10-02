@@ -1,0 +1,34 @@
+[
+  {
+    "id": "a31c98d1-428d-50bc-bfd8-7c25ace65abc",
+    "status": "published",
+    "sort": 1,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "icon": "briefcase",
+    "time_range": "08:00 - 18:00",
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "Business Hours",
+        "days": "Mon-Fri"
+      }
+    ]
+  },
+  {
+    "id": "b50e35cb-f473-545d-aac4-09bc517fee3d",
+    "status": "published",
+    "sort": 2,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "icon": "clipboard-check",
+    "time_range": "07:30 - 17:00",
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "Customs Hours",
+        "days": "Mon-Fri"
+      }
+    ]
+  }
+]

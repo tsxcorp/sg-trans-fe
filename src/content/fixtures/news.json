@@ -1,0 +1,62 @@
+[
+  {
+    "id": "e69ee0da-aabc-57e7-8dbe-e95cfe35f3b9",
+    "status": "published",
+    "sort": 1,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slug": "vietnam-logistics-digital-shift",
+    "cover": "7ff46c3d-35ed-5bf3-8f65-de3fd1cd777a",
+    "published_at": "2025-09-12T08:00:00.000Z",
+    "author": "Quang Ng",
+    "comments_count": 3,
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "Vietnam’s Logistics Industry: From Traditional Supply Chains to a Full-Scale Digital Shift",
+        "excerpt": "Dramatically Enhance Interactive Metrics For Reliable Services.",
+        "body": []
+      }
+    ]
+  },
+  {
+    "id": "d0fb1706-acfd-5acd-bd91-643157525499",
+    "status": "published",
+    "sort": 2,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slug": "logistics-turning-point",
+    "cover": "cca4b5a1-ae55-5800-9cd6-be3458ad99b4",
+    "published_at": "2025-09-05T08:00:00.000Z",
+    "author": "KD Duong",
+    "comments_count": 3,
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "Vietnam Logistics at the Turning Point: Great Opportunities Amid Growing Pressures",
+        "excerpt": "Dramatically Enhance Interactive Metrics For Reliable Services.",
+        "body": []
+      }
+    ]
+  },
+  {
+    "id": "0fa1ccf2-cd6b-513d-94f9-3e99666bee85",
+    "status": "published",
+    "sort": 3,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slug": "talent-shortage",
+    "cover": "7e570bd6-83f4-5a91-870c-1f6a9db36cbb",
+    "published_at": "2025-08-28T08:00:00.000Z",
+    "author": "Henry Tran",
+    "comments_count": 3,
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "Talent Shortage: The Biggest Bottleneck in Vietnam’s Logistics Growth",
+        "excerpt": "Dramatically Enhance Interactive Metrics For Reliable Services.",
+        "body": []
+      }
+    ]
+  }
+]

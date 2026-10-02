@@ -1,0 +1,314 @@
+{
+  "hero_image": "56c94a5d-2772-50e1-ad0f-e85da0590006",
+  "highlights_image": "cd2a9507-4fc8-58cd-8f9a-149c60a0268d",
+  "highlights": [
+    {
+      "id": "8a5709a1-80a3-5592-a6ab-36de0ed096c3",
+      "status": "published",
+      "sort": 1,
+      "date_created": "2026-10-02T08:00:00.000Z",
+      "date_updated": null,
+      "icon": "truck",
+      "translations": [
+        {
+          "languages_code": "en",
+          "label": "Ground Pickup"
+        }
+      ],
+      "emphasis": false
+    },
+    {
+      "id": "4b2c9d0d-8922-51be-bbae-3f7f6ff39800",
+      "status": "published",
+      "sort": 2,
+      "date_created": "2026-10-02T08:00:00.000Z",
+      "date_updated": null,
+      "icon": "ship",
+      "translations": [
+        {
+          "languages_code": "en",
+          "label": "Sea/Air Transit"
+        }
+      ],
+      "emphasis": false
+    },
+    {
+      "id": "51b67db2-1368-5eae-ad99-a772c7bb17f3",
+      "status": "published",
+      "sort": 3,
+      "date_created": "2026-10-02T08:00:00.000Z",
+      "date_updated": null,
+      "icon": "landmark",
+      "translations": [
+        {
+          "languages_code": "en",
+          "label": "Customs Clearance"
+        }
+      ],
+      "emphasis": false
+    },
+    {
+      "id": "d0c436b9-21fd-5e88-8c2b-2966c7985c32",
+      "status": "published",
+      "sort": 4,
+      "date_created": "2026-10-02T08:00:00.000Z",
+      "date_updated": null,
+      "icon": "archive",
+      "translations": [
+        {
+          "languages_code": "en",
+          "label": "Final Delivery"
+        }
+      ],
+      "emphasis": true
+    }
+  ],
+  "process": {
+    "default_active": 2,
+    "steps": [
+      {
+        "id": "0cebb1a8-ef0c-5e55-b251-68a895eda44a",
+        "status": "published",
+        "sort": 1,
+        "date_created": "2026-10-02T08:00:00.000Z",
+        "date_updated": null,
+        "icon": "ship-plane",
+        "variant": "default",
+        "kind": "process",
+        "translations": [
+          {
+            "languages_code": "en",
+            "label": "Port / Airport Arrival",
+            "kicker": null
+          }
+        ]
+      },
+      {
+        "id": "4d29b8e9-5ef1-579d-8e08-50a59334a3a1",
+        "status": "published",
+        "sort": 2,
+        "date_created": "2026-10-02T08:00:00.000Z",
+        "date_updated": null,
+        "icon": "clipboard-shield",
+        "variant": "default",
+        "kind": "process",
+        "translations": [
+          {
+            "languages_code": "en",
+            "label": "Customs Clearance",
+            "kicker": null
+          }
+        ]
+      },
+      {
+        "id": "be202e51-39ed-536e-9bae-12b990caa380",
+        "status": "published",
+        "sort": 3,
+        "date_created": "2026-10-02T08:00:00.000Z",
+        "date_updated": null,
+        "icon": "container-truck",
+        "variant": "default",
+        "kind": "process",
+        "translations": [
+          {
+            "languages_code": "en",
+            "label": "Inland Transport",
+            "kicker": null
+          }
+        ]
+      },
+      {
+        "id": "6dc98cf4-185d-56ef-aa05-81bc08fdf9fc",
+        "status": "published",
+        "sort": 4,
+        "date_created": "2026-10-02T08:00:00.000Z",
+        "date_updated": null,
+        "icon": "warehouse-boxes",
+        "variant": "default",
+        "kind": "process",
+        "translations": [
+          {
+            "languages_code": "en",
+            "label": "Delivery to Warehouse",
+            "kicker": null
+          }
+        ]
+      }
+    ],
+    "translations": [
+      {
+        "languages_code": "en",
+        "eyebrow": "Execution Strategy",
+        "title": "IMPORT FLOW",
+        "subtitle": "A clear and efficient 4-step process to ensure your cargo is imported smoothly and delivered on time."
+      }
+    ]
+  },
+  "expertise": {
+    "stats": [],
+    "cards": [
+      {
+        "image": "4c5537ac-77cb-5bdc-b845-d9b4bed83d2d",
+        "icon": "clipboard-list",
+        "translations": [
+          {
+            "languages_code": "en",
+            "title": "Trade Compliance"
+          }
+        ]
+      },
+      {
+        "image": "b37134d8-6c4f-5fb8-9596-57a9e5eb0200",
+        "icon": "shield-check",
+        "translations": [
+          {
+            "languages_code": "en",
+            "title": "Regulatory Consulting"
+          }
+        ]
+      },
+      {
+        "image": "55b0c606-2537-5119-9925-dc9baaa7bdaf",
+        "icon": "chart",
+        "translations": [
+          {
+            "languages_code": "en",
+            "title": "Risk Management"
+          }
+        ]
+      }
+    ],
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "Consultancy & Compliance",
+        "text": "Expert guidance to ensure compliance, reduce risk and support your growth."
+      }
+    ]
+  },
+  "features": [
+    {
+      "id": "bd861b24-c4c3-5417-8b84-2258335d1f3e",
+      "status": "published",
+      "sort": 1,
+      "date_created": "2026-10-02T08:00:00.000Z",
+      "date_updated": null,
+      "icon": "radar",
+      "translations": [
+        {
+          "languages_code": "en",
+          "title": "Shipment Visibility",
+          "text": "Sample text: status updates for your shipment, to be replaced by the service content."
+        }
+      ]
+    },
+    {
+      "id": "0bfb12a4-5ec1-58b5-a32b-e2ca353a0de0",
+      "status": "published",
+      "sort": 2,
+      "date_created": "2026-10-02T08:00:00.000Z",
+      "date_updated": null,
+      "icon": "shield",
+      "translations": [
+        {
+          "languages_code": "en",
+          "title": "Risk Management",
+          "text": "Sample text: planning and safeguards for every shipment, to be replaced by the service content."
+        }
+      ]
+    },
+    {
+      "id": "527ded54-629d-5a7f-bbbc-5e91628df7fb",
+      "status": "published",
+      "sort": 3,
+      "date_created": "2026-10-02T08:00:00.000Z",
+      "date_updated": null,
+      "icon": "globe",
+      "translations": [
+        {
+          "languages_code": "en",
+          "title": "Global Compliance",
+          "text": "Sample text: documentation that meets regulatory standards, to be replaced by the service content."
+        }
+      ]
+    }
+  ],
+  "why": {
+    "images": [
+      "e19771ff-4465-5834-ae99-2c0efec877c2",
+      "8d4c42ec-108c-575f-ba28-e79e1dd94f7f",
+      "15fc8eba-4fed-5c60-a98c-d2f6d0e171e8",
+      "274dc357-3e87-56f6-8752-7370bea22f54"
+    ],
+    "items": [
+      {
+        "icon": "banknote",
+        "translations": [
+          {
+            "languages_code": "en",
+            "title": "Cost Optimization",
+            "text": "Sample text: consolidation and planning to help reduce overhead."
+          }
+        ]
+      },
+      {
+        "icon": "badge-check",
+        "translations": [
+          {
+            "languages_code": "en",
+            "title": "Quality Control",
+            "text": "Sample text: audit processes at every transit point."
+          }
+        ]
+      },
+      {
+        "icon": "zap",
+        "translations": [
+          {
+            "languages_code": "en",
+            "title": "Scalable Logistics",
+            "text": "Sample text: infrastructure that grows with your business needs."
+          }
+        ]
+      },
+      {
+        "icon": "headset",
+        "translations": [
+          {
+            "languages_code": "en",
+            "title": "Account Management",
+            "text": "Sample text: a dedicated point of contact for your business."
+          }
+        ]
+      }
+    ],
+    "translations": [
+      {
+        "languages_code": "en",
+        "eyebrow": "The STS Edge",
+        "title": "Why Choose Saigontrans?",
+        "text": "Beyond basic transport, we provide business intelligence. Our partnership approach means we integrate with your supply chain to find efficiencies you didn't know existed.",
+        "image_alts": [
+          "Four business colleagues in front of a glowing network of data",
+          "A man writing notes at a desk in an office",
+          "A yellow forklift truck in a warehouse aisle with tall racks",
+          "Blue port cranes and stacked containers by the sea"
+        ]
+      }
+    ]
+  },
+  "translations": [
+    {
+      "languages_code": "en",
+      "hero_title": null,
+      "hero_subtitle": "CONNECTING YOUR SUPPLY CHAIN WITH SAFETY, ON-TIME DELIVERY, AND TRUST (SOT). YOUR EXPERT PARTNER FOR TIGHTLY CONTROLLED INDUSTRIES AND DANGEROUS CHEMICALS.",
+      "intro_eyebrow": "Our Services",
+      "intro_title": null,
+      "intro_html": null,
+      "highlights_title": "KEY HIGHLIGHTS",
+      "features_eyebrow": "Our Capabilities",
+      "features_title": "Key Features",
+      "meta_description": null
+    }
+  ]
+}

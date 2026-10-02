@@ -1,0 +1,128 @@
+[
+  {
+    "id": "09d08ac7-1568-5cc5-aecd-8842069823ad",
+    "status": "published",
+    "sort": 1,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "level": 0,
+    "column": null,
+    "full_name": "Linh Pham",
+    "email": "linhpham@saigontrans.com.vn",
+    "extension": "101",
+    "translations": [
+      {
+        "languages_code": "en",
+        "role": "General Director"
+      }
+    ]
+  },
+  {
+    "id": "6a23c572-3004-5a01-943a-98a4d68d60dd",
+    "status": "published",
+    "sort": 2,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "level": 1,
+    "column": 1,
+    "full_name": "Tieu Dieu",
+    "email": "tieudieu@saigontrans.com.vn",
+    "extension": "302",
+    "translations": [
+      {
+        "languages_code": "en",
+        "role": "Chief Accountant"
+      }
+    ]
+  },
+  {
+    "id": "7cff5b61-35cd-53e1-998a-61c926226059",
+    "status": "published",
+    "sort": 3,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "level": 1,
+    "column": 2,
+    "full_name": "Khoa Pham",
+    "email": "khoapham@saigontrans.com.vn",
+    "extension": "102",
+    "translations": [
+      {
+        "languages_code": "en",
+        "role": "Vice Director"
+      }
+    ]
+  },
+  {
+    "id": "8b19bd1f-436d-5fd2-8ebc-d7981d10e744",
+    "status": "published",
+    "sort": 4,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "level": 1,
+    "column": 3,
+    "full_name": "Trang Anh",
+    "email": "tranganh@saigontrans.com.vn",
+    "extension": "201",
+    "translations": [
+      {
+        "languages_code": "en",
+        "role": "Import Manager"
+      }
+    ]
+  },
+  {
+    "id": "67d54cca-9629-5e71-900d-0c524f226618",
+    "status": "published",
+    "sort": 5,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "level": 1,
+    "column": 4,
+    "full_name": "Nhu Quynh",
+    "email": "quynhnhu@saigontrans.com.vn",
+    "extension": "205",
+    "translations": [
+      {
+        "languages_code": "en",
+        "role": "Import Chemical"
+      }
+    ]
+  },
+  {
+    "id": "90bcee33-a589-59f3-8c00-5fb750cc0cb9",
+    "status": "published",
+    "sort": 6,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "level": 2,
+    "column": 1,
+    "full_name": "Huong Nguyen",
+    "email": "huongnguyen@saigontrans.com.vn",
+    "extension": "301",
+    "translations": [
+      {
+        "languages_code": "en",
+        "role": "Control Debit Note"
+      }
+    ]
+  },
+  {
+    "id": "d99563d7-234b-5a8f-a5e4-36d0274c48c3",
+    "status": "published",
+    "sort": 7,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "level": 2,
+    "column": 3,
+    "full_name": "Truc Long",
+    "email": "truclong@saigontrans.com.vn",
+    "extension": "202",
+    "translations": [
+      {
+        "languages_code": "en",
+        "role": "Export Manager"
+      }
+    ]
+  }
+]

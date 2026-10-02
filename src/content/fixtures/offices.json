@@ -1,0 +1,19 @@
+[
+  {
+    "id": "7f353b8d-c90b-553c-887e-53a2ee85edd0",
+    "status": "published",
+    "sort": 1,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "phone": "(84) 28-38233 068",
+    "email": "info@saigontrans.com.vn",
+    "translations": [
+      {
+        "languages_code": "en",
+        "name": "Head office",
+        "address": "45 Dinh Tien Hoang Street, Ben Nghe Ward, District 1, Ho Chi Minh City, Vietnam",
+        "role": null
+      }
+    ]
+  }
+]

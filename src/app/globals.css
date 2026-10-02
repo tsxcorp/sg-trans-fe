@@ -1,0 +1,56 @@
+@import "tailwindcss";
+
+/* Design tokens read from the Figma export (see design/reference/home.md). */
+@theme inline {
+  --font-sans: var(--font-inter), system-ui, sans-serif;
+  --color-navy: #2f439b;
+  --color-brand: #2740cd;
+  --color-nav: #3851dd;
+  --color-red: #de2627;
+  --color-red-dark: #cd2727;
+  --color-page: #f5f5f5;
+  --color-ink: #404040;
+  --color-muted: #6e6e6e;
+  --color-line: #e5e5e5;
+}
+
+html {
+  font-family: var(--font-sans);
+  font-optical-sizing: none; /* match the Inter used in Figma (text optical size) */
+  -webkit-font-smoothing: antialiased;
+  scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+}
+
+body {
+  margin: 0;
+  background: #fff;
+  color: var(--color-ink);
+}
+
+/* Keyboard focus ring for every interactive element (requirement: visible focus). */
+:where(a, button, input, select, textarea, [tabindex]):focus-visible {
+  outline: 2px solid #fff;
+  outline-offset: 2px;
+  box-shadow: 0 0 0 4px var(--color-brand);
+}
+
+/* Highlight cards (services, news). From xl: one card is active by default (as drawn in the design) and the
+   highlight follows hover/focus. Below xl (touch): every card shows its panel. The panel is never display:none,
+   so keyboard and screen-reader users reach it. */
+.hl-card .hl-rest { display: none; }
+.hl-card .hl-panel { opacity: 1; }
+.hl-card .hl-news { color: var(--color-red-dark); }
+@media (min-width: 1280px) {
+  .hl-card .hl-rest { display: block; opacity: 1; }
+  .hl-card .hl-panel { opacity: 0; }
+  .hl-card[data-active='true'] .hl-panel { opacity: 1; }
+  .hl-card[data-active='true'] .hl-rest { opacity: 0; }
+  .hl-card .hl-news { color: #777; }
+  .hl-card[data-active='true'] .hl-news { color: var(--color-red-dark); }
+}
+.sr-skip { position: absolute; left: -9999px; top: 0; z-index: 100; background: #fff; color: var(--color-navy); padding: 12px 16px; }
+.sr-skip:focus { left: 8px; top: 8px; }

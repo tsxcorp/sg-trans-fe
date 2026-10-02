@@ -1,0 +1,27 @@
+{
+  "hero": { "explore": "Explore The Services", "contact": "Contact Us" },
+  "card": { "readMore": "Read More", "openService": "Open" },
+  "slide": "Slide {n}",
+  "step": { "prefix": "Step", "listLabel": "Process steps", "lifecycleLabel": "Service lifecycle" },
+  "quote": {
+    "sectionLabel": "Request a Project Quote",
+    "firstName": "First name",
+    "firstNamePlaceholder": "Enter first name",
+    "lastName": "Last name",
+    "lastNamePlaceholder": "Enter last name",
+    "email": "Corporate email",
+    "emailPlaceholder": "name@company.com",
+    "phone": "Phone number",
+    "phonePlaceholder": "+1 (555) 000-0000",
+    "serviceType": "Service type",
+    "servicePlaceholder": "Select Logistics Service",
+    "volume": "Estimated volume",
+    "volumePlaceholder": "e.g. 50 containers/month",
+    "brief": "Project brief",
+    "briefPlaceholder": "Describe your logistics challenges...",
+    "submit": "INITIALIZE INQUIRY",
+    "sending": "SENDING…",
+    "success": "Thank you! Your request has been received.",
+    "imageAlt": "Saigon Trans truck with a blue container"
+  }
+}

@@ -1,0 +1,599 @@
+[
+  {
+    "id": "84c7306e-5fd3-54a3-ae94-f0ac1ca54a97",
+    "parent": null,
+    "layout": "tiles",
+    "related_services": [
+      "dfe6f8a4-439c-59ab-b194-5e2eb758a9cc",
+      "8ed35b92-0f99-5149-9dc0-2d855e2349d0",
+      "806f977b-bcb3-5059-a211-519ca3e75c18",
+      "1ed28703-8c50-5a92-a000-4962a8836988"
+    ],
+    "steps": [],
+    "translations": [
+      {
+        "languages_code": "en",
+        "section_eyebrow": "Services",
+        "section_title": "Logistics Services",
+        "section_intro": null,
+        "section_link_label": null,
+        "steps_title": null,
+        "nav_title": null,
+        "hero_title": "Logistics Solution",
+        "hero_subtitle": "CONNECTING YOUR SUPPLY CHAIN WITH SAFETY, ON-TIME DELIVERY, AND TRUST (SOT). YOUR EXPERT PARTNER FOR TIGHTLY CONTROLLED INDUSTRIES AND DANGEROUS CHEMICALS.",
+        "intro_eyebrow": "Our Services",
+        "intro_title": "Logistics Experts for Highly Technical Industries.",
+        "intro_html": "Saigontrans has authored and provided highly technical export/import solutions across tightly controlled industries. With 26 years of experience, we are not just standard forwarders; we offer unparalleled expertise in <strong>Customs Clearance, Transport Solutions, E-commerce, and Drop Shipping.</strong>",
+        "highlights_title": "KEY HIGHLIGHTS",
+        "features_eyebrow": "Our Capabilities",
+        "features_title": "Key Logistics Features",
+        "meta_description": null
+      }
+    ],
+    "hero_image": "56c94a5d-2772-50e1-ad0f-e85da0590006",
+    "highlights_image": "cd2a9507-4fc8-58cd-8f9a-149c60a0268d",
+    "highlights": [
+      {
+        "id": "8a5709a1-80a3-5592-a6ab-36de0ed096c3",
+        "status": "published",
+        "sort": 1,
+        "date_created": "2026-10-02T08:00:00.000Z",
+        "date_updated": null,
+        "icon": "truck",
+        "translations": [
+          {
+            "languages_code": "en",
+            "label": "Ground Pickup"
+          }
+        ],
+        "emphasis": false
+      },
+      {
+        "id": "4b2c9d0d-8922-51be-bbae-3f7f6ff39800",
+        "status": "published",
+        "sort": 2,
+        "date_created": "2026-10-02T08:00:00.000Z",
+        "date_updated": null,
+        "icon": "ship",
+        "translations": [
+          {
+            "languages_code": "en",
+            "label": "Sea/Air Transit"
+          }
+        ],
+        "emphasis": false
+      },
+      {
+        "id": "51b67db2-1368-5eae-ad99-a772c7bb17f3",
+        "status": "published",
+        "sort": 3,
+        "date_created": "2026-10-02T08:00:00.000Z",
+        "date_updated": null,
+        "icon": "landmark",
+        "translations": [
+          {
+            "languages_code": "en",
+            "label": "Customs Clearance"
+          }
+        ],
+        "emphasis": false
+      },
+      {
+        "id": "d0c436b9-21fd-5e88-8c2b-2966c7985c32",
+        "status": "published",
+        "sort": 4,
+        "date_created": "2026-10-02T08:00:00.000Z",
+        "date_updated": null,
+        "icon": "archive",
+        "translations": [
+          {
+            "languages_code": "en",
+            "label": "Final Delivery"
+          }
+        ],
+        "emphasis": true
+      }
+    ],
+    "process": {
+      "default_active": 2,
+      "steps": [
+        {
+          "id": "0cebb1a8-ef0c-5e55-b251-68a895eda44a",
+          "status": "published",
+          "sort": 1,
+          "date_created": "2026-10-02T08:00:00.000Z",
+          "date_updated": null,
+          "icon": "ship-plane",
+          "variant": "default",
+          "kind": "process",
+          "translations": [
+            {
+              "languages_code": "en",
+              "label": "Port / Airport Arrival",
+              "kicker": null
+            }
+          ]
+        },
+        {
+          "id": "4d29b8e9-5ef1-579d-8e08-50a59334a3a1",
+          "status": "published",
+          "sort": 2,
+          "date_created": "2026-10-02T08:00:00.000Z",
+          "date_updated": null,
+          "icon": "clipboard-shield",
+          "variant": "default",
+          "kind": "process",
+          "translations": [
+            {
+              "languages_code": "en",
+              "label": "Customs Clearance",
+              "kicker": null
+            }
+          ]
+        },
+        {
+          "id": "be202e51-39ed-536e-9bae-12b990caa380",
+          "status": "published",
+          "sort": 3,
+          "date_created": "2026-10-02T08:00:00.000Z",
+          "date_updated": null,
+          "icon": "container-truck",
+          "variant": "default",
+          "kind": "process",
+          "translations": [
+            {
+              "languages_code": "en",
+              "label": "Inland Transport",
+              "kicker": null
+            }
+          ]
+        },
+        {
+          "id": "6dc98cf4-185d-56ef-aa05-81bc08fdf9fc",
+          "status": "published",
+          "sort": 4,
+          "date_created": "2026-10-02T08:00:00.000Z",
+          "date_updated": null,
+          "icon": "warehouse-boxes",
+          "variant": "default",
+          "kind": "process",
+          "translations": [
+            {
+              "languages_code": "en",
+              "label": "Delivery to Warehouse",
+              "kicker": null
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "languages_code": "en",
+          "eyebrow": "Execution Strategy",
+          "title": "IMPORT FLOW",
+          "subtitle": "A clear and efficient 4-step process to ensure your cargo is imported smoothly and delivered on time."
+        }
+      ]
+    },
+    "expertise": {
+      "stats": [
+        {
+          "value": "38",
+          "icon": "ship",
+          "translations": [
+            {
+              "languages_code": "en",
+              "label": "TRUCKS"
+            }
+          ]
+        },
+        {
+          "value": "31",
+          "icon": "globe-pin",
+          "translations": [
+            {
+              "languages_code": "en",
+              "label": "TRAILERS"
+            }
+          ]
+        },
+        {
+          "value": "45",
+          "icon": "package",
+          "translations": [
+            {
+              "languages_code": "en",
+              "label": "DRIVERS"
+            }
+          ]
+        },
+        {
+          "value": "24/7",
+          "icon": "headset",
+          "translations": [
+            {
+              "languages_code": "en",
+              "label": "CCTV MONITORING"
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "image": "4c5537ac-77cb-5bdc-b845-d9b4bed83d2d",
+          "icon": "clipboard-list",
+          "translations": [
+            {
+              "languages_code": "en",
+              "title": "Trade Compliance"
+            }
+          ]
+        },
+        {
+          "image": "b37134d8-6c4f-5fb8-9596-57a9e5eb0200",
+          "icon": "shield-check",
+          "translations": [
+            {
+              "languages_code": "en",
+              "title": "Regulatory Consulting"
+            }
+          ]
+        },
+        {
+          "image": "55b0c606-2537-5119-9925-dc9baaa7bdaf",
+          "icon": "chart",
+          "translations": [
+            {
+              "languages_code": "en",
+              "title": "Risk Management"
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "languages_code": "en",
+          "title": "Consultancy & Compliance",
+          "text": "Expert guidance to ensure compliance, reduce risk and support your growth."
+        }
+      ]
+    },
+    "features": [
+      {
+        "id": "bd861b24-c4c3-5417-8b84-2258335d1f3e",
+        "status": "published",
+        "sort": 1,
+        "date_created": "2026-10-02T08:00:00.000Z",
+        "date_updated": null,
+        "icon": "radar",
+        "translations": [
+          {
+            "languages_code": "en",
+            "title": "Real-time Tracking",
+            "text": "Complete visibility into your shipment status with our proprietary GPS tracking dashboard."
+          }
+        ]
+      },
+      {
+        "id": "0bfb12a4-5ec1-58b5-a32b-e2ca353a0de0",
+        "status": "published",
+        "sort": 2,
+        "date_created": "2026-10-02T08:00:00.000Z",
+        "date_updated": null,
+        "icon": "shield",
+        "translations": [
+          {
+            "languages_code": "en",
+            "title": "Risk Management",
+            "text": "Comprehensive cargo insurance and proactive contingency planning for every shipment."
+          }
+        ]
+      },
+      {
+        "id": "527ded54-629d-5a7f-bbbc-5e91628df7fb",
+        "status": "published",
+        "sort": 3,
+        "date_created": "2026-10-02T08:00:00.000Z",
+        "date_updated": null,
+        "icon": "globe",
+        "translations": [
+          {
+            "languages_code": "en",
+            "title": "Global Compliance",
+            "text": "Expertise in international trade laws ensuring all documentation meets regulatory standards."
+          }
+        ]
+      }
+    ],
+    "why": {
+      "images": [
+        "e19771ff-4465-5834-ae99-2c0efec877c2",
+        "8d4c42ec-108c-575f-ba28-e79e1dd94f7f",
+        "15fc8eba-4fed-5c60-a98c-d2f6d0e171e8",
+        "274dc357-3e87-56f6-8752-7370bea22f54"
+      ],
+      "items": [
+        {
+          "icon": "banknote",
+          "translations": [
+            {
+              "languages_code": "en",
+              "title": "Cost Optimization",
+              "text": "Route consolidation and volume rates that reduce overhead by up to 20%."
+            }
+          ]
+        },
+        {
+          "icon": "badge-check",
+          "translations": [
+            {
+              "languages_code": "en",
+              "title": "Quality Control",
+              "text": "Rigorous audit processes at every transit point to ensure cargo integrity."
+            }
+          ]
+        },
+        {
+          "icon": "zap",
+          "translations": [
+            {
+              "languages_code": "en",
+              "title": "Scalable Logistics",
+              "text": "Infrastructure that grows with your business needs, from 1 pallet to 1,000."
+            }
+          ]
+        },
+        {
+          "icon": "headset",
+          "translations": [
+            {
+              "languages_code": "en",
+              "title": "Account Management",
+              "text": "A dedicated single point of contact who understands your business nuances."
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "languages_code": "en",
+          "eyebrow": "The STS Edge",
+          "title": "Why Choose Saigontrans?",
+          "text": "Beyond basic transport, we provide business intelligence. Our partnership approach means we integrate with your supply chain to find efficiencies you didn't know existed.",
+          "image_alts": [
+            "Four business colleagues in front of a glowing network of data",
+            "A man writing notes at a desk in an office",
+            "A yellow forklift truck in a warehouse aisle with tall racks",
+            "Blue port cranes and stacked containers by the sea"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "78dde73f-6061-545a-9097-3696d0e65968",
+    "parent": null,
+    "layout": "cards",
+    "related_services": [],
+    "steps": [
+      {
+        "id": "78d5aa82-6ddf-55f4-adb0-d2dd87a42feb",
+        "status": "published",
+        "sort": 1,
+        "date_created": "2026-10-02T08:00:00.000Z",
+        "date_updated": null,
+        "icon": "factory",
+        "variant": "default",
+        "kind": "process",
+        "translations": [
+          {
+            "languages_code": "en",
+            "label": "Origin",
+            "kicker": null
+          }
+        ]
+      },
+      {
+        "id": "2e1bfbdd-3a7f-5d23-b363-e24054adf491",
+        "status": "published",
+        "sort": 2,
+        "date_created": "2026-10-02T08:00:00.000Z",
+        "date_updated": null,
+        "icon": "truck",
+        "variant": "default",
+        "kind": "process",
+        "translations": [
+          {
+            "languages_code": "en",
+            "label": "Pick Up",
+            "kicker": null
+          }
+        ]
+      },
+      {
+        "id": "4b853ed0-467d-5be9-b343-441f78e163cb",
+        "status": "published",
+        "sort": 3,
+        "date_created": "2026-10-02T08:00:00.000Z",
+        "date_updated": null,
+        "icon": "ship",
+        "variant": "active",
+        "kind": "process",
+        "translations": [
+          {
+            "languages_code": "en",
+            "label": "Main Leg",
+            "kicker": "Transit"
+          }
+        ]
+      },
+      {
+        "id": "e6851401-0576-5866-ae70-286fbc25a256",
+        "status": "published",
+        "sort": 4,
+        "date_created": "2026-10-02T08:00:00.000Z",
+        "date_updated": null,
+        "icon": "gavel",
+        "variant": "default",
+        "kind": "process",
+        "translations": [
+          {
+            "languages_code": "en",
+            "label": "Clearance",
+            "kicker": null
+          }
+        ]
+      },
+      {
+        "id": "93f42df7-594f-5c15-80cf-480f6676894f",
+        "status": "published",
+        "sort": 5,
+        "date_created": "2026-10-02T08:00:00.000Z",
+        "date_updated": null,
+        "icon": "archive",
+        "variant": "default",
+        "kind": "process",
+        "translations": [
+          {
+            "languages_code": "en",
+            "label": "Sorting",
+            "kicker": null
+          }
+        ]
+      },
+      {
+        "id": "204707f0-2c9e-5a6f-b8e8-d3701f053953",
+        "status": "published",
+        "sort": 6,
+        "date_created": "2026-10-02T08:00:00.000Z",
+        "date_updated": null,
+        "icon": "map-pin",
+        "variant": "final",
+        "kind": "process",
+        "translations": [
+          {
+            "languages_code": "en",
+            "label": "Delivered",
+            "kicker": "Success"
+          }
+        ]
+      }
+    ],
+    "translations": [
+      {
+        "languages_code": "en",
+        "section_eyebrow": "Our Services",
+        "section_title": "Freight Forwarding",
+        "section_intro": "Global reach with local intelligence. We coordinate complex international shipments across every mode of transport.",
+        "section_link_label": null,
+        "steps_title": null,
+        "nav_title": null
+      }
+    ]
+  },
+  {
+    "id": "1ed28703-8c50-5a92-a000-4962a8836988",
+    "parent": null,
+    "layout": "photo-grid",
+    "related_services": [],
+    "steps": [],
+    "translations": [
+      {
+        "languages_code": "en",
+        "section_eyebrow": "Our Services",
+        "section_title": "Ware housing services",
+        "section_intro": null,
+        "section_link_label": "View Facilities",
+        "steps_title": null,
+        "nav_title": null
+      }
+    ]
+  },
+  {
+    "id": "e162ebe5-1228-5321-9d51-377979479123",
+    "parent": null,
+    "layout": "cards-lifecycle",
+    "related_services": [],
+    "steps": [
+      {
+        "id": "b902a222-18fd-5fe7-a625-c69cac874838",
+        "status": "published",
+        "sort": 1,
+        "date_created": "2026-10-02T08:00:00.000Z",
+        "date_updated": null,
+        "icon": null,
+        "variant": "default",
+        "kind": "lifecycle",
+        "translations": [
+          {
+            "languages_code": "en",
+            "label": "Automated Picking & Packing",
+            "kicker": null
+          }
+        ]
+      },
+      {
+        "id": "e4059df9-7e6d-50f8-9bd5-5a5bd7289de3",
+        "status": "published",
+        "sort": 2,
+        "date_created": "2026-10-02T08:00:00.000Z",
+        "date_updated": null,
+        "icon": null,
+        "variant": "default",
+        "kind": "lifecycle",
+        "translations": [
+          {
+            "languages_code": "en",
+            "label": "Regional Hub Consolidation",
+            "kicker": null
+          }
+        ]
+      },
+      {
+        "id": "7db34858-d1cd-547d-9c11-402e006e06a3",
+        "status": "published",
+        "sort": 3,
+        "date_created": "2026-10-02T08:00:00.000Z",
+        "date_updated": null,
+        "icon": null,
+        "variant": "default",
+        "kind": "lifecycle",
+        "translations": [
+          {
+            "languages_code": "en",
+            "label": "Local Carrier Distribution",
+            "kicker": null
+          }
+        ]
+      },
+      {
+        "id": "48fa4098-beb5-50bc-b830-398d8f282ff3",
+        "status": "published",
+        "sort": 4,
+        "date_created": "2026-10-02T08:00:00.000Z",
+        "date_updated": null,
+        "icon": null,
+        "variant": "final",
+        "kind": "lifecycle",
+        "translations": [
+          {
+            "languages_code": "en",
+            "label": "Final Consumer Delivery",
+            "kicker": null
+          }
+        ]
+      }
+    ],
+    "translations": [
+      {
+        "languages_code": "en",
+        "section_eyebrow": "Our Services",
+        "section_title": "E-commerce Solutions",
+        "section_intro": null,
+        "section_link_label": null,
+        "steps_title": "Service Lifecycle",
+        "nav_title": null
+      }
+    ]
+  }
+]

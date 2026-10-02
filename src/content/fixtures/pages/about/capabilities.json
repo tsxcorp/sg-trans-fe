@@ -1,0 +1,122 @@
+[
+  {
+    "id": "65634857-88ee-55fa-8162-333b59addc80",
+    "status": "published",
+    "sort": 1,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "icon": "warehouse",
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "Trucks and trailers",
+        "detail": "38 trucks, 31 trailers"
+      }
+    ]
+  },
+  {
+    "id": "cf4d9cf7-8cd2-5935-bb30-3d1f3e875a02",
+    "status": "published",
+    "sort": 2,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "icon": "warehouse",
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "Container 40’HC",
+        "detail": "(20 PCS, rental)"
+      }
+    ]
+  },
+  {
+    "id": "0d30dbee-8466-5c45-87ae-e78cfeaa2afb",
+    "status": "published",
+    "sort": 3,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "icon": "warehouse",
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "Tank Container truck",
+        "detail": null
+      }
+    ]
+  },
+  {
+    "id": "e72bf7ff-8510-52cc-84a4-51580c84c196",
+    "status": "published",
+    "sort": 4,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "icon": "warehouse",
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "Prime mover for port haul",
+        "detail": "05 Units"
+      }
+    ]
+  },
+  {
+    "id": "77f400dd-98cb-58cf-98be-ae6699e8a588",
+    "status": "published",
+    "sort": 5,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "icon": "warehouse",
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "Skillful Manpower / Experienced drivers",
+        "detail": "25 staff, 45 drivers (B2, C, FC)"
+      }
+    ]
+  },
+  {
+    "id": "fc4909ee-ff9f-5f14-afd5-bfe97d554234",
+    "status": "published",
+    "sort": 6,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "icon": "warehouse",
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "Skillful mechanical engineering",
+        "detail": "03 Persons"
+      }
+    ]
+  },
+  {
+    "id": "101e6433-783f-56ac-9695-8767e25ec39f",
+    "status": "published",
+    "sort": 7,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "icon": "warehouse",
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "Trained Vehicle operation Staff",
+        "detail": "03 Persons"
+      }
+    ]
+  },
+  {
+    "id": "54d4151d-57b6-5eac-816d-43a799650020",
+    "status": "published",
+    "sort": 8,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "icon": "warehouse",
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "Trucking park in Biên Hoà Province",
+        "detail": null
+      }
+    ]
+  }
+]

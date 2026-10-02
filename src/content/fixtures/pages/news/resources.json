@@ -1,0 +1,56 @@
+[
+  {
+    "id": "9c93c682-50ff-5b77-8101-3ef2d8a7ee21",
+    "status": "published",
+    "sort": 1,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slot": "sidebar",
+    "file": null,
+    "translations": [
+      {
+        "languages_code": "en",
+        "eyebrow": null,
+        "title": "Annual Logistics White Paper 2024",
+        "description": "Download our comprehensive 60-page report on the future of multi-modal freight technology.",
+        "cta_label": "Download PDF"
+      }
+    ]
+  },
+  {
+    "id": "f0df4f08-64c2-5d7c-a48e-b4c0f4e61cf1",
+    "status": "published",
+    "sort": 2,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slot": "banner_left",
+    "file": null,
+    "translations": [
+      {
+        "languages_code": "en",
+        "eyebrow": "ANNUAL REPORT",
+        "title": "2025 FINANCIAL PERFORMANCE HIGHLIGHTS",
+        "description": "Exceptional growth metrics and strategic roadmap for the coming fiscal year.",
+        "cta_label": "VIEW REPORT"
+      }
+    ]
+  },
+  {
+    "id": "29e1b19c-b3f3-5c25-a1b0-2098bd903041",
+    "status": "published",
+    "sort": 3,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slot": "banner_right",
+    "file": null,
+    "translations": [
+      {
+        "languages_code": "en",
+        "eyebrow": "WHITE PAPER",
+        "title": "THE FUTURE OF AUTONOMOUS TRUCKING",
+        "description": "Download our latest technical analysis on autonomous freight integration in urban environments.",
+        "cta_label": "DOWNLOAD PDF"
+      }
+    ]
+  }
+]

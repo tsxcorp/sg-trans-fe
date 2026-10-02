@@ -1,0 +1,213 @@
+[
+  {
+    "id": "a1277230-b955-54e8-9f19-e6d742b71c7a",
+    "status": "published",
+    "sort": 4,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slug": "implementing-ai-driven-predictive-routing",
+    "cover": "5410ea2b-6fa1-5498-99d1-091b77662d81",
+    "cover_alt": null,
+    "published_at": "2024-05-15T08:00:00.000Z",
+    "author": null,
+    "comments_count": null,
+    "category": "9cbc7b4f-e282-58f8-b724-405ec3d7b793",
+    "tags": [
+      "f832d2a1-c824-52f0-b0f5-5be2a5efbf90",
+      "00d148e6-e7cf-5baf-90bb-3456005d8fd2",
+      "af34296f-5968-5bc3-b22b-8fede312cb04",
+      "d5feeafc-ccf6-5009-93eb-9129ad65d0a1"
+    ],
+    "is_featured": true,
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "Implementing AI-Driven Predictive Routing for Trans-Pacific Corridors",
+        "excerpt": "Saigontrans announces the full integration of artificial intelligence across its Pacific shipping routes, aiming to reduce transit times by up to 18% while optimizing fuel consumption for a greener fleet. This landmark shift represents a new era in precision logistics management.",
+        "body": [
+          {
+            "type": "lead",
+            "text": "Global trade is navigating its most significant transformation since the invention of the shipping container. As the world shifts towards hyper-connected supply chains, Saigontrans is at the forefront of this industrial revolution."
+          },
+          {
+            "type": "heading",
+            "level": 2,
+            "text": "The Kinetic Architect Strategy"
+          },
+          {
+            "type": "paragraph",
+            "text": "The modern logistician is no longer just a mover of goods, but an architect of data and movement. By leveraging predictive analytics and real-time tracking, we are creating a \"Live Manifest\" system that anticipates bottlenecks before they occur. This structural integrity allows our clients to scale their operations globally without the traditional friction of cross-border commerce."
+          },
+          {
+            "type": "feature",
+            "title": "Real-Time Transit Efficiency",
+            "text": "Our latest fleet of autonomous cargo carriers has improved delivery precision by 22% across the Trans-Pacific corridor.",
+            "image": "9b021a67-3fa9-5b36-8aca-1cd29995e048",
+            "stats": [
+              {
+                "value": "99.8%",
+                "label": "ON-TIME RATE"
+              },
+              {
+                "value": "12k",
+                "label": "ACTIVE UNITS"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 2,
+            "text": "Sustainable Logistics: The New Standard"
+          },
+          {
+            "type": "paragraph",
+            "text": "The future of logistics is green. We are heavily investing in hydrogen-powered line-haul vehicles and solarintegrated warehousing. Our goal is to achieve carbon neutrality by 2035, a commitment that is reshaping our entire fleet acquisition strategy."
+          },
+          {
+            "type": "quote",
+            "text": "\"Sustainability is no longer a peripheral corporate social responsibility; it is the core engine of industrial longevity.\""
+          },
+          {
+            "type": "paragraph",
+            "text": "Through asymmetrical growth strategies and precise execution, Saigontrans continues to define the kinetic movement of the global economy. As we look towards 2025, our focus remains on the structural resilience of our network and the technological empowerment of our partners."
+          }
+        ]
+      }
+    ],
+    "list_image": "92424e27-99c7-5573-afeb-56ba4a58eb86"
+  },
+  {
+    "id": "fd6cc801-2c0e-58be-a5c5-0b24b17e2032",
+    "status": "published",
+    "sort": 5,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slug": "opening-new-strategic-hub-singapore",
+    "cover": "9a216e41-5cac-54af-aaf6-dd314aff01b7",
+    "cover_alt": null,
+    "published_at": "2024-04-28T08:00:00.000Z",
+    "author": null,
+    "comments_count": null,
+    "category": "f5bbf494-6d5f-5259-b3ac-b25439c08f83",
+    "tags": [
+      "15a559fa-8073-5180-b789-2d4167465aca",
+      "493f5207-1037-5d2f-beac-2ea0dc1a44da"
+    ],
+    "is_featured": false,
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "Opening Our New Strategic Hub in Singapore",
+        "excerpt": "The new 50,000 sq ft facility will serve as our primary gateway for ASEAN distributions, featuring state-of-the-art cold storage capabilities.",
+        "body": []
+      }
+    ]
+  },
+  {
+    "id": "8c7e6fdc-7c61-541d-9e9c-bdc5013147cc",
+    "status": "published",
+    "sort": 6,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slug": "quarterly-market-outlook-supply-volatility",
+    "cover": "85856885-be4f-51ef-9280-3f3ae2cad3ec",
+    "cover_alt": null,
+    "published_at": "2024-04-12T08:00:00.000Z",
+    "author": null,
+    "comments_count": null,
+    "category": "9d552bd8-4b35-5890-9b67-a83ce3b24eb2",
+    "tags": [
+      "efdeb151-956e-5c65-bfd0-d27d93d2796b"
+    ],
+    "is_featured": false,
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "Quarterly Market Outlook: Navigating Supply Volatility",
+        "excerpt": "Our analysts dive into current market trends affecting global freight rates and providing strategic advice for H2 2024 planning.",
+        "body": []
+      }
+    ]
+  },
+  {
+    "id": "981230cc-6e31-599f-8805-31371c1fe884",
+    "status": "published",
+    "sort": 7,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slug": "blockchain-transparent-bill-of-lading",
+    "cover": "45b62d26-eb3b-5256-820c-b199e5dffbfa",
+    "cover_alt": null,
+    "published_at": "2024-03-30T08:00:00.000Z",
+    "author": null,
+    "comments_count": null,
+    "category": "9cbc7b4f-e282-58f8-b724-405ec3d7b793",
+    "tags": [
+      "c90c6359-3ba0-5e93-b90a-6d8079118a57"
+    ],
+    "is_featured": false,
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "Blockchain for Transparent Bill of Lading",
+        "excerpt": "Reducing paperwork and increasing security through our new distributed ledger pilot program for international shipments.",
+        "body": []
+      }
+    ]
+  },
+  {
+    "id": "03f420a4-9302-50b5-b1ad-ba6d67c5913e",
+    "status": "published",
+    "sort": 8,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slug": "sample-sustainable-packaging-pilot",
+    "cover": "85856885-be4f-51ef-9280-3f3ae2cad3ec",
+    "cover_alt": null,
+    "published_at": "2024-03-15T08:00:00.000Z",
+    "author": null,
+    "comments_count": null,
+    "category": "2940fd0d-91fc-526d-aca9-e35b75898573",
+    "tags": [
+      "ede2586a-c8a4-5ff7-8303-5ced6b1616c0",
+      "493f5207-1037-5d2f-beac-2ea0dc1a44da"
+    ],
+    "is_featured": false,
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "Sample: Sustainable Packaging Pilot in Our Regional Warehouses",
+        "excerpt": "Sample article for testing pagination and filters. Placeholder text, to be replaced by real content.",
+        "body": []
+      }
+    ],
+    "_sample": true
+  },
+  {
+    "id": "2312bc8b-3c6c-58cd-880c-ba4e50d70bc7",
+    "status": "published",
+    "sort": 9,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slug": "sample-northern-corridor-schedule-update",
+    "cover": "9a216e41-5cac-54af-aaf6-dd314aff01b7",
+    "cover_alt": null,
+    "published_at": "2024-02-20T08:00:00.000Z",
+    "author": null,
+    "comments_count": null,
+    "category": "89338dda-7688-59cc-81ae-136274fef9b3",
+    "tags": [
+      "efdeb151-956e-5c65-bfd0-d27d93d2796b"
+    ],
+    "is_featured": false,
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "Sample: Updated Schedule for the Northern Corridor",
+        "excerpt": "Sample article for testing pagination and filters. Placeholder text, to be replaced by real content.",
+        "body": []
+      }
+    ],
+    "_sample": true
+  }
+]

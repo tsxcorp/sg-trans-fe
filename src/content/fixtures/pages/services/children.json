@@ -1,0 +1,322 @@
+[
+  {
+    "id": "806f977b-bcb3-5059-a211-519ca3e75c18",
+    "status": "published",
+    "sort": 1,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slug": "custom-clearance-service",
+    "icon": "box-hand",
+    "image": "26b5af1b-331d-55e0-ada3-9c2596941681",
+    "parent": "84c7306e-5fd3-54a3-ae94-f0ac1ca54a97",
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "Custom Clearance service",
+        "summary": "Energistically reconceptualize ubiquitous solution wherea\nmarket-driven expertise.\nSynergistical empower parallel processes with highly efficient infomediaries.",
+        "body": null,
+        "nav_title": "Customs Brokerage"
+      }
+    ]
+  },
+  {
+    "id": "e0984661-2357-5f6c-b33a-82a9f9455c4e",
+    "status": "published",
+    "sort": 2,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slug": "door-to-door-services",
+    "icon": "box-hand",
+    "image": "26b5af1b-331d-55e0-ada3-9c2596941681",
+    "parent": "84c7306e-5fd3-54a3-ae94-f0ac1ca54a97",
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "Door to Door services",
+        "summary": "Energistically reconceptualize ubiquitous solution wherea\nmarket-driven expertise.\nSynergistical empower parallel processes with highly efficient infomediaries.",
+        "body": null,
+        "nav_title": null
+      }
+    ]
+  },
+  {
+    "id": "cf6fc8c6-6a95-5828-ba53-15590dd4660f",
+    "status": "published",
+    "sort": 3,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slug": "transport-delivery-haulage-long-haul",
+    "icon": "box-hand",
+    "image": "26b5af1b-331d-55e0-ada3-9c2596941681",
+    "parent": "84c7306e-5fd3-54a3-ae94-f0ac1ca54a97",
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "Transport delivery services with haulage and long haul",
+        "summary": "Energistically reconceptualize ubiquitous solution wherea\nmarket-driven expertise.\nSynergistical empower parallel processes with highly efficient infomediaries.",
+        "body": null,
+        "nav_title": null
+      }
+    ]
+  },
+  {
+    "id": "7a249c53-525e-5b0c-ba8c-d973811322f2",
+    "status": "published",
+    "sort": 4,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slug": "project-cargo-handling",
+    "icon": "box-hand",
+    "image": "db7fbc7f-d3dd-515e-a928-1b3478790b7e",
+    "parent": "84c7306e-5fd3-54a3-ae94-f0ac1ca54a97",
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "Project cargo handling",
+        "summary": "Energistically reconceptualize ubiquitous solution wherea\nmarket-driven expertise.\nSynergistical empower parallel processes with highly efficient infomediaries.",
+        "body": null,
+        "nav_title": null
+      }
+    ]
+  },
+  {
+    "id": "88b99c85-d376-5583-ae0b-b9516959cf40",
+    "status": "published",
+    "sort": 5,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slug": "consolidation-ltl-services",
+    "icon": "box-hand",
+    "image": "db7fbc7f-d3dd-515e-a928-1b3478790b7e",
+    "parent": "84c7306e-5fd3-54a3-ae94-f0ac1ca54a97",
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "Consolidation LTL services",
+        "summary": "Energistically reconceptualize ubiquitous solution wherea\nmarket-driven expertise.\nSynergistical empower parallel processes with highly efficient infomediaries.",
+        "body": null,
+        "nav_title": null
+      }
+    ]
+  },
+  {
+    "id": "8ed35b92-0f99-5149-9dc0-2d855e2349d0",
+    "status": "published",
+    "sort": 1,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slug": "air-freight-consolidation",
+    "icon": null,
+    "image": null,
+    "parent": "78dde73f-6061-545a-9097-3696d0e65968",
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "Air Freight Consolidation",
+        "summary": "High-speed global reach with priority cargo space on premium airlines and dedicated charter options for urgent payloads.",
+        "body": null,
+        "nav_title": "Air Cargo"
+      }
+    ]
+  },
+  {
+    "id": "dfe6f8a4-439c-59ab-b194-5e2eb758a9cc",
+    "status": "published",
+    "sort": 2,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slug": "sea-freight-fcl-lcl",
+    "icon": null,
+    "image": null,
+    "parent": "78dde73f-6061-545a-9097-3696d0e65968",
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "Sea Freight (FCL & LCL)",
+        "summary": "Comprehensive ocean solutions from Full Container Loads to Less than Container Loads, integrated with major global carrier alliances.",
+        "body": null,
+        "nav_title": "Ocean Freight"
+      }
+    ]
+  },
+  {
+    "id": "f6c55697-6310-5a2a-b849-72d10d5a240e",
+    "status": "published",
+    "sort": 3,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slug": "inland-rail-transport",
+    "icon": null,
+    "image": null,
+    "parent": "78dde73f-6061-545a-9097-3696d0e65968",
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "Inland & Rail Transport",
+        "summary": "Reliable land-based connectivity bridging ports and hinterlands via advanced trucking fleets and high-capacity rail networks.",
+        "body": null,
+        "nav_title": null
+      }
+    ]
+  },
+  {
+    "id": "68eecc15-1df4-5bf1-bbfd-17044ba89df4",
+    "status": "published",
+    "sort": 1,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slug": "warehousing-packing-services",
+    "icon": null,
+    "image": "51d926f8-1543-5efc-8514-ef9f9912ef38",
+    "parent": "1ed28703-8c50-5a92-a000-4962a8836988",
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "Warehousing & packing services",
+        "summary": "Automated sorting and high-density storage for optimized picking and packing.",
+        "body": null,
+        "nav_title": null
+      }
+    ]
+  },
+  {
+    "id": "789e22a8-7231-58b7-9cfa-1d9000512025",
+    "status": "published",
+    "sort": 2,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slug": "distribution-center-services",
+    "icon": null,
+    "image": "f7054929-0386-5195-94c1-1a231ed53e78",
+    "parent": "1ed28703-8c50-5a92-a000-4962a8836988",
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "Distribution center services",
+        "summary": "Automated sorting and high-density storage for optimized picking and packing.",
+        "body": null,
+        "nav_title": null
+      }
+    ]
+  },
+  {
+    "id": "7519968c-76c0-55df-8a1d-6e9038b7aeee",
+    "status": "published",
+    "sort": 3,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slug": "personal-effect-handling-services",
+    "icon": null,
+    "image": "60d82c9f-bdb7-53a7-9329-df1b5e7935b9",
+    "parent": "1ed28703-8c50-5a92-a000-4962a8836988",
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "Personal Effect handling services",
+        "summary": "Strategically located hubs designed for high-velocity regional fulfillment.",
+        "body": null,
+        "nav_title": null
+      }
+    ]
+  },
+  {
+    "id": "65c635d9-dc9c-5fe9-9cbc-87cdeccc6684",
+    "status": "published",
+    "sort": 4,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slug": "container-renting-to-store-goods",
+    "icon": null,
+    "image": "fd76a844-9c4e-5204-a647-199cd7ca202b",
+    "parent": "1ed28703-8c50-5a92-a000-4962a8836988",
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "Container renting to store goods",
+        "summary": "Strategically located hubs designed for high-velocity regional fulfillment.",
+        "body": null,
+        "nav_title": null
+      }
+    ]
+  },
+  {
+    "id": "d652c687-dab2-54ab-b00f-209c7e003781",
+    "status": "published",
+    "sort": 1,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slug": "domestic-parcel",
+    "icon": null,
+    "image": null,
+    "parent": "e162ebe5-1228-5321-9d51-377979479123",
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "Domestic Parcel",
+        "summary": "Last-mile delivery with full tracking.",
+        "body": null,
+        "nav_title": null
+      }
+    ]
+  },
+  {
+    "id": "181fdbd0-a73e-5729-94e7-4cb5ad15be59",
+    "status": "published",
+    "sort": 2,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slug": "global-shipping",
+    "icon": null,
+    "image": null,
+    "parent": "e162ebe5-1228-5321-9d51-377979479123",
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "Cross-Border Transport",
+        "summary": "Cross-border road and rail: Cambodia, Laos, Thailand, Malaysia.",
+        "body": null,
+        "nav_title": null
+      }
+    ]
+  },
+  {
+    "id": "3462119e-5acf-5747-a9ba-4083bd09599b",
+    "status": "published",
+    "sort": 3,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slug": "return-management",
+    "icon": null,
+    "image": null,
+    "parent": "e162ebe5-1228-5321-9d51-377979479123",
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "Return Management",
+        "summary": "Simplified reverse logistics flows.",
+        "body": null,
+        "nav_title": null
+      }
+    ]
+  },
+  {
+    "id": "30f57a52-d52e-561e-88d7-47fc6bd79c11",
+    "status": "published",
+    "sort": 4,
+    "date_created": "2026-10-02T08:00:00.000Z",
+    "date_updated": null,
+    "slug": "api-integration",
+    "icon": null,
+    "image": null,
+    "parent": "e162ebe5-1228-5321-9d51-377979479123",
+    "translations": [
+      {
+        "languages_code": "en",
+        "title": "API Integration",
+        "summary": "Seamless checkout connectivity.",
+        "body": null,
+        "nav_title": null
+      }
+    ]
+  }
+]
